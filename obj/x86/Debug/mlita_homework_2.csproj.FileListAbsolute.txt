@@ -1,0 +1,5 @@
+D:\Alex\Alexis\Complex2\mlita_homework_2\bin\Debug\mlita_homework_2.exe
+D:\Alex\Alexis\Complex2\mlita_homework_2\bin\Debug\mlita_homework_2.pdb
+D:\Alex\Alexis\Complex2\mlita_homework_2\obj\x86\Debug\mlita_homework_2.exe
+D:\Alex\Alexis\Complex2\mlita_homework_2\obj\x86\Debug\mlita_homework_2.pdb
+D:\Alex\Alexis\Complex2\mlita_homework_2\obj\x86\Debug\mlita_homework_2.csprojResolveAssemblyReference.cache
